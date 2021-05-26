@@ -1,0 +1,4 @@
+    },
+    "BOT_TOKEN": {
+      "description": "Bot Token @BotFather",
+      "required": true
